@@ -23,7 +23,7 @@ const Footer = () => {
       </a>
       <div className="w-px h-6 bg-gray-500"></div>
       <p className="text-sm">
-        &copy; {new Date().getFullYear()} Ajay Dheenadhayalan 🩷. All rights reserved.
+        Made with 🩷 by Ajay
         </p>
     </footer>
   );
